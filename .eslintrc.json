@@ -1,0 +1,5 @@
+// want to previously installed set of rulles
+
+{
+    "extends":"react-app"
+}
